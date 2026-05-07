@@ -4,7 +4,7 @@
 
 🚀 **Busco atuar como Desenvolvedora FullStack |**  
 
-**🤔 Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+**🤔 Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.**
 
 **🎓 Graduanda em Ciência da Computação na Uninassau.**
 
