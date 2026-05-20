@@ -1,4 +1,4 @@
-# Olá 👋, sou Gabrielly Rodrigues
+# Olá, sou Gabrielly Rodrigues
 
 ---
 
@@ -6,11 +6,9 @@
 
 **🤔 Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.**
 
-**🎓 Graduanda em Ciência da Computação na Uninassau.**
+**🎓 Graduanda em Ciência da Computação.**
 
 **🌱 Aprendendo mais sobre .NET, JavaScript, React e TypeScript**
-
-**♀️Pronouns: Ela/Dela**
 
 ---
 
