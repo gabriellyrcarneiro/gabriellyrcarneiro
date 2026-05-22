@@ -2,7 +2,7 @@
 
 ---
 
-🚀 **Desenvolvedora FullStack **  
+🚀 **Desenvolvedora FullStack**  
 
 **🤔 Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.**
 
