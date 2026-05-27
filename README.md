@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabrielly Rodrigues 
+# 👩‍💻 Gabrielly Rodrigues 
 
 **`Desenvolvedora FullStack`**
 
