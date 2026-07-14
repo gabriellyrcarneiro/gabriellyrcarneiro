@@ -10,21 +10,6 @@
 
 ---
 
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/gabriellyrcarneiro">
-    <img src="https://img.shields.io/badge/GitHub-gabriellyrcarneiro-181717?style=for-the-badge&logo=github&logoColor=blue" />
-  </a>
-  <a href="https://instagram.com/gabriellyrcarneiro">
-    <img src="https://img.shields.io/badge/Instagram-@gabriellyrcarneiro-E4405F?style=for-the-badge&logo=instagram&logoColor=pink" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriellyrcarneiros/">
-    <img src="https://img.shields.io/badge/LinkedIn-gabriellyrcarneiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />   
-  </a>
-</p>
-
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -143,6 +128,19 @@
 <br/>
 <br/>
 
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/gabriellyrcarneiro">
+    <img src="https://img.shields.io/badge/GitHub-gabriellyrcarneiro-181717?style=for-the-badge&logo=github&logoColor=blue" />
+  </a>
+  <a href="https://instagram.com/gabriellyrcarneiro">
+    <img src="https://img.shields.io/badge/Instagram-@gabriellyrcarneiro-E4405F?style=for-the-badge&logo=instagram&logoColor=pink" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriellyrcarneiros/">
+    <img src="https://img.shields.io/badge/LinkedIn-gabriellyrcarneiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />   
+  </a>
+</p>
 ---
 
 <picture align="center">
