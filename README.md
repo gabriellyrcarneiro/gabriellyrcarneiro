@@ -1,12 +1,7 @@
-# 👩‍💻 Gabrielly Rodrigues 
+# 👩‍💻 Olá 
 
-**`Desenvolvedora FullStack`**
-
-*Me chamo Gabrielly Rodrigues, tenho 20 anos e sou natural de Carpina/PE.*
-
-*Sou Graduanda em Ciência da Computação.*
-
-*Ando aprendendo mais sobre .NET, JavaScript, React e TypeScript.*
+### Resumo
+Eu sou Gabrielly, atualmente graduanda em Ciência da computação com mais de 2 anos de estudo em FullStack. 
 
 ---
 <!-- Tecnologias -->
