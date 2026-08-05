@@ -65,19 +65,15 @@ Eu sou Gabrielly, atualmente graduanda em Ciência da computação com mais de 2
  
 </div>
 
-### 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/gabriellyrcarneiro">
-    <img src="https://img.shields.io/badge/GitHub-gabriellyrcarneiro-181717?style=for-the-badge&logo=github&logoColor=blue" />
-  </a>
-  <a href="https://instagram.com/gabriellyrcarneiro">
-    <img src="https://img.shields.io/badge/Instagram-@gabriellyrcarneiro-E4405F?style=for-the-badge&logo=instagram&logoColor=pink" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriellyrcarneiros/">
-    <img src="https://img.shields.io/badge/LinkedIn-gabriellyrcarneiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />   
-  </a>
-</p>
+ <!-- Redes sociais -->
+<div align="center">
+ 
+## Conecte-se comigo
+  <a href = "gabriellyrcarneiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gabriellyrcarneiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriellyrcarneiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5581993533366" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellyrcarneiro/gabriellyrcarneiro/output/github-contribution-grid-snake-dark.svg">
