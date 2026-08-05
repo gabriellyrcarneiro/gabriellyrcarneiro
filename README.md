@@ -3,6 +3,24 @@
 ### Resumo
 Eu sou Gabrielly, atualmente graduanda em Ciência da computação com mais de 2 anos de estudo em FullStack. 
 
+### Minhas habilidades 
+
+🧠 Soft Skills: 
+
+* Comunicação
+* Criatividade
+* Multitarefa e Agilidade
+* Organização e Adaptação
+* Otimismo
+
+🚀 Hard Skills:
+
+* Linguagens: Java e SQL
+* Framework: Spring Boot e Morphis
+* Bancos de dados: MySQL e Oracle with PL/SQL
+* Versionamento: Git, GitHub e GitLab
+* Metodologias Ágeis: Jira (Scrum e Kanban)
+
 ---
 <!-- Tecnologias -->
 <div align="center">
