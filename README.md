@@ -1,7 +1,7 @@
-# 👩‍💻 Olá 
+#👋🏻 Olá!
 
 ### Resumo
-Eu sou Gabrielly, atualmente graduanda em Ciência da computação com mais de 2 anos de estudo em FullStack. 
+🙋🏻‍♀️ Eu sou Gabrielly, atualmente graduanda em Ciência da computação com mais de 2 anos de estudo em FullStack. 
 
 ### Minhas habilidades 
 
